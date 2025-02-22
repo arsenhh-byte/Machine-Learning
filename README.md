@@ -51,3 +51,7 @@ Climate research: researchers can use it to study historical weather patterns in
 Energy sector: energy providers can adjust their strategies based on temperature predictions, particularly for solar energy, which is weather-dependent.
 Health: public health officials can monitor temperature trends to address heat-related illnesses and public health emergencies.
 Logistics and supply chain: companies can optimize delivery schedules based on weather forecasts, particularly in regions where extreme temperatures may affect operations.
+
+
+**For a more comprehensive understanding, kindly visit the colab link
+**
